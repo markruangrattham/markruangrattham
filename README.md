@@ -61,12 +61,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-ruang)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://markruangrattham.github.io/Portfolio)  
 
----
-
-### 🏆 GitHub Stats
-
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=markruangrattham&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markruangrattham&layout=compact&theme=radical)
 
 ---
 
